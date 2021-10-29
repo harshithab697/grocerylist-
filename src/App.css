@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.app-background {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+
+
+.main-container {
+  background-color: #DF2E2E;
+  border: 1px ridge crimson;
+    width: 500px;
+    height: min-content;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 10px 10px 26px 0px rgba(0, 0, 0, 0.35);
+}

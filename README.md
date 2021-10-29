@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+
+steps in making or converting the cart application to redux applcation 
+
+1. create a reduer file and import the createReducer from redux
+2. create the reducer function with currentState and action type and create switch command
+3. create the store and pass the reducer function to the store 
+4. export the stores
